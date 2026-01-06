@@ -33,39 +33,4 @@ A recorded walkthrough demonstrating hands-on ticket handling inside osTicket:
   </li>
 </ul>
 
-<h2>Technologies & Tools Used</h2>
 
-<ul>
-  <li>osTicket</li>
-  <li>Microsoft Azure (Virtual Machines)</li>
-  <li>Windows 10 Pro (21H2)</li>
-  <li>Internet Information Services (IIS)</li>
-  <li>Remote Desktop Protocol (RDP)</li>
-</ul>
-
-<h2>Key Technical Skills Demonstrated</h2>
-
-<ul>
-  <li>Help desk ticket intake and triage</li>
-  <li>Agent and end-user workflow navigation</li>
-  <li>Service Level Agreement (SLA) application</li>
-  <li>Ticket prioritization and escalation handling</li>
-  <li>Internal documentation and ticket notes</li>
-  <li>Issue resolution and ticket closure procedures</li>
-</ul>
-
-<h2>Ticket Lifecycle Stages Covered</h2>
-
-<ul>
-  <li>Ticket intake and submission</li>
-  <li>Assignment and agent communication</li>
-  <li>Active troubleshooting and updates</li>
-  <li>Resolution and closure</li>
-</ul>
-
-<h2>Outcome</h2>
-
-<p>
-Successfully demonstrated end-to-end ticket handling within a help desk environment, simulating real-world IT support operations and workflows.  
-This project reinforces practical experience with ticket management, SLA enforcement, and professional support documentation.
-</p>
